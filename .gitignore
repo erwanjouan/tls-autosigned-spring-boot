@@ -1,3 +1,7 @@
 .idea
 **/target
 *.iml
+key
+*.der
+*.pem
+cacerts
